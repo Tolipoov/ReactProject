@@ -1,0 +1,30 @@
+[
+    {
+        "img":"/iphone12.png",
+        "name":"Iphone 12 Purple",
+        "description": "Every iPhone is available with a one-year limited warranty service including hardware repairs and up to 90 days of free support.",
+        "price":"$1285",
+        "buy":"Buy Now"
+    },
+    {
+        "img":"/iphone-12-red.png",
+        "name":"Iphone 12 Red",
+        "description": "Every iPhone is available with a one-year limited warranty service including hardware repairs and up to 90 days of free support.",
+        "price":"$1192",
+        "buy":"Buy Now"
+    },
+    {
+        "img":"/iphone13.png",
+        "name":"Iphone 13 Pink",
+        "description": "Every iPhone is available with a one-year limited warranty service including hardware repairs and up to 90 days of free support.",
+        "price":"$1363",
+        "buy":"Buy Now"
+    }, 
+    {
+        "img":"/iphone13_white.png",
+        "name":"Iphone 13 White",
+        "description": "Every iPhone is available with a one-year limited warranty service including hardware repairs and up to 90 days of free support.",
+        "price":"$1479",
+        "buy":"Buy Now"
+    }
+]

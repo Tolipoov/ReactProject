@@ -1,0 +1,42 @@
+[
+    {
+        "img":"/AirBlack.png",
+        "name":"AirPods Max Black",
+        "price":"$455"
+    },
+    {
+        "img":"/AirBlue.png",
+        "name":"AirPods Max Blue",
+        "price":"$462"
+    },
+    {
+        "img":"/AirWhite.png",
+        "name":"AirPods Max White",
+        "price":"$444"
+    }, 
+    {
+        "img":"/Speaker.png",
+        "name":"Speaker",
+        "price":"$479"
+    },
+    {
+        "img":"/AirDouble .png",
+        "name":"AirPods",
+        "price":"$363"
+    },
+    {
+        "img":"/Iwatch.png",
+        "name":"Iwatch",
+        "price":"$763"
+    }, 
+    {
+        "img":"/Iwatch1.png",
+        "name":"Iwatch",
+        "price":"$663"
+    },  
+    {
+        "img":"/AirPods.png",
+        "name":"Airpod",
+        "price":"$372"
+    }
+]

@@ -1,0 +1,164 @@
+@media screen and (max-width: 768px) {
+    .modal-body{
+        .searchSec{
+            form{
+                position: relative;
+                .searchInput{
+                    width: 86%;
+                    padding: 8px;
+                    border-radius: 4px;
+                    border: 1px solid #808080;
+                    &:focus{
+                        outline: none;
+                        box-shadow: none;
+                    }
+                }    
+                .searchBtn{
+                    position: relative;
+                    right:0;
+                    top:10%;
+                    background-color: transparent;
+                    border:none;
+                    svg{
+                        width: 32px;
+                        height: 32px;
+                    }
+                }
+            }
+        }
+    }
+    .navigation{
+        padding: 0 20px;
+        margin: 10px 0px!important;
+        .searchSec{
+        display: none;
+        }
+       
+        .ResponsiveModal{
+            display: block;
+            margin-left: 23%;
+            margin-top: 5px;
+            .btn{
+                background-color:transparent!important;
+                color:black!important;
+                border:none;
+                padding: 0;
+                svg{
+                    width: 28px;
+                    height: 28px;
+                }
+            }
+        }
+    }
+    .Categories{
+        display: inline;
+        padding: 0;
+        .MenuLink{
+            display: none;
+        }
+        .btn_cat{
+            display: flex;
+            margin: 15px 0;
+            .dropdown-toggle{
+                width: 100%;
+                font-size: 18px;
+                font-weight: 600;
+                display: flex;
+                justify-content: space-between;
+                &::after{
+                    margin-left: 10px;
+                }
+            }
+            .dropdown-menu.show{
+                width: 100%;
+            }
+        }
+    }
+    .home{
+        height: 20rem;
+        background-position: center;
+        border-radius: 0px;
+        .main{
+            display: inline;
+            .first_side{
+                margin: 0;
+                padding: 60px 0;
+                h3{
+                    font-size: 32px;
+                    font-weight: 600;
+                }
+                p{
+                    font-size: 16px;
+                }
+                .homeButton{
+                    .homeButtonItem{
+                        padding: 10px 15px;
+                        align-items:center;
+                        font-size: 16px;
+                    }
+                }
+            }
+            .second_side{
+                display: none;
+            }
+        }
+    }
+    .BackgroundColor{
+        .ProductBg{
+            .titles{
+                p{
+                    font-size: 15px;
+                }
+                h4{
+                    font-size: 20px;
+                }
+            }
+            .Cards{
+                display: block;
+                
+            }
+        }
+    }
+    .advertising{
+        background-position:center;
+        border-radius: 0;
+        .adv_content{
+            padding: 20px 0;
+            display: block;
+            h1{
+                font-size: 20px;
+                width: 70%;
+            }
+            .adv_btn{
+                margin-top: 20px;
+                a{
+                    padding: 10px 20px;
+                }
+            }
+        }
+    }
+    .newCollection{
+        .container{
+            .row{
+                .col-lg-6{
+                    .card{
+                        .card-body{                         
+                            img{
+                                width: 100%;
+                            }
+                        }
+                    }
+                }
+                
+                
+            }
+        }
+    }
+    .Footer{
+        .FooterCol{
+            .products{
+                margin: 0 10px;
+            }
+        }
+    }  
+}
